@@ -103,22 +103,6 @@
                     "isPartOfComposite": false
                 }
             ]
-        },
-        {
-            "name": "Mouse",
-            "id": "68ac891b-d0a6-4955-8eb4-eb0d5672e816",
-            "actions": [
-                {
-                    "name": "New action",
-                    "type": "Button",
-                    "id": "c17304b6-5829-4303-b410-fff7d2cd4c9a",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                }
-            ],
-            "bindings": []
         }
     ],
     "controlSchemes": [
